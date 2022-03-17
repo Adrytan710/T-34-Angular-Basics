@@ -1,0 +1,41 @@
+body {
+  background-color: #cdcdce;
+}
+
+h1 {
+  text-align: center;
+  padding-bottom: 5vw;
+}
+
+#calculadora {
+background: rgb(0, 0, 0);
+margin: auto;
+border: 5px solid blue;
+width: 50vh;
+height: 30vw;
+}
+
+#calculadora td {
+padding: 4px;
+}
+
+.caja {
+background-color: #c869f5;
+color: #000000;
+font-weight: bold;
+border: 1px solid #000000;
+width: 45vh;
+height: 2vw;
+font-size: 25px;
+line-height: 26px;
+text-align: right;
+margin-left: 3px;
+}
+
+.botones {
+width: 5vh;
+border: 1px solid rgb(255, 0, 0);
+font-size: 20px;
+background-color: #fff;
+margin-left: 3vh;
+}
